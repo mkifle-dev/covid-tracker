@@ -18,3 +18,4 @@ MongoDB, Node.js, EJS, Passport, Javascript, CSS, HTML
 
 1. run `node server.js`
 2. Navigate to `localhost:9090`
+# covid-tracker
